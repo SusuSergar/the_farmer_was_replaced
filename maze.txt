@@ -1,0 +1,4 @@
+I am struggling to get a working version of a DNF search. I used this resource: 
+https://gist.github.com/zapakh/9a9b39a07964bbd27ab8cbd05ca35501. It works great!
+
+If you haven't unlocked the necessary functionality, you can create some of it manually. It's not that hard.
